@@ -20,7 +20,7 @@ Instead of only feature fusion, VEGA introduces CLIP-based visual emotion anchor
 
 ## Model Overview 🖼️
 
-![VEGA Model](Model.png)
+![VEGA Model](docs/figures/Model.png)
 
 ## Method at a Glance 🧠
 
